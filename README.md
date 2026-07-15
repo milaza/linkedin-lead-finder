@@ -150,7 +150,7 @@ Search businesses operating in selected sectors and markets.
 
 ## Search Example
 
-![Search](images/search.png)
+![Search](images/dashboard.png)
 
 ## Results
 
