@@ -148,6 +148,13 @@ Build prospect lists of SDRs, Account Executives, Sales Managers, and CROs.
 
 Search businesses operating in selected sectors and markets.
 
+## Search Example
+
+![Search](images/search.png)
+
+## Results
+
+![Results](images/results.png)
 ---
 
 ## Getting Started
